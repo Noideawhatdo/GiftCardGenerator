@@ -31,7 +31,7 @@ if(mode == "Minecraft"):
         with open(file, 'a') as out:
           out.write(generate1+generate2+generate3+generate4+space1+generate5+generate6+generate7+generate8+space2+generate9+generate10+generate11+generate12+newline)
 #Amazon
-if(mode == "Amazon"):
+if(mode == "Amazon")
     for x in range(number):
         generate1 = random.choice(gentype)
         generate2 = random.choice(gentype)
